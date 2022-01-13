@@ -1,0 +1,14 @@
+{
+    "chainId":101,
+    "address":"AVBpiwiMrrWc8iyP9EZiWsjz4fPJ3Eo5fkdG9uq4znn1",
+    "symbol":"GAMLA",
+    "name":"Gamla fund",
+    "decimals":"8",
+    "logoURI":"https://st2.depositphotos.com/7752738/11653/v/950/depositphotos_116530224-stock-illustration-three-people-community-logo-abstract.jpg",
+    "tags":[
+       "tags_if_any"
+    ],
+    "extensions":{
+       
+    }
+ }
